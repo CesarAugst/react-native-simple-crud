@@ -1,6 +1,10 @@
 # react-native-simple-crud
 Aplicativo desenvolvido para aplicar conceitos básicos de criação de APPs (navegação, estado, componentização, comunicação com backend e estilização) usando React Native
 
+#Integrantes
+- Cesar August
+- Gracielle Oliveira
+
 ## preparação do ambiente
 é importante que sejam instaladas as dependências (tanto do back quanto do app) usando o comando:
 ```npm install```
