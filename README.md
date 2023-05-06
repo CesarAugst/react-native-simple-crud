@@ -8,7 +8,8 @@ Aplicativo desenvolvido para aplicar conceitos básicos de criação de APPs (na
 ## para rodar o backend
 - navegue até /back e use o seguinte comando:
 ```npm start```
-nota: deixe em um terminal separado rodando em segundo plano para não finalizá-lo
+Observação: deixe em um terminal separado rodando em segundo plano para não finalizá-lo
+Nota: Qualquer dúvida quanto aos endpoints acesse ```http://localhost:3000/docs```
 
 ## para rodar o app
 - navegue até /app e use o seguinte comando:
