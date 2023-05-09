@@ -4,6 +4,7 @@ Aplicativo desenvolvido para aplicar conceitos básicos de criação de APPs (na
 #Integrantes
 - Cesar August
 - Gracielle Oliveira
+- Matheus Alves
 
 ## preparação do ambiente
 é importante que sejam instaladas as dependências (tanto do back quanto do app) usando o comando:
