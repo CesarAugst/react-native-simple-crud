@@ -19,3 +19,10 @@ Nota: Qualquer dúvida quanto aos endpoints acesse ```http://localhost:3000/docs
 ## para rodar o app
 - navegue até /app e use o seguinte comando:
 ```npx expo start```
+
+## Para conectar APP com Back
+- O projeto APP possui 3 arquivos responsáveis por conectar as funcionalidades ao backend
+  - /src/services/auth.service.ts
+  - /src/services/user.service.ts
+  - /src/services/role.service.ts
+- Altere o IP nesses 3 arquivos para apontar corretamente para o backend em ambiente de teste
